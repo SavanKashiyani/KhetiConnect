@@ -1,0 +1,11 @@
+{
+  "data": {
+    "otp": 1234,
+    "message": "Your OTP for KhetiConnect is 1234",
+    "status": true
+  },
+  "meta": {
+    "message": "OTP sent successfully.",
+    "url": "https://.../api/v1/send-otp"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "message": "Logged out successfully."
+  },
+  "meta": {
+    "message": "Logged out successfully.",
+    "url": "https://.../api/v1/logout"
+  }
+}

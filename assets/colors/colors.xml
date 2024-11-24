@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <color name="red_dark">#B71540</color>
+    <color name="primary">#0A3161</color>
+    <color name="primary50">#E7EAEF</color>
+    <color name="primary95">#E2EEFE</color>
+    <color name="primary400">#3B5A81</color>
+    <color name="primary300">#6C83A0</color>
+    <color name="primary100">#CED6DF</color>
+    <color name="primary200">#9DADC0</color>
+    <color name="primary800">#061D3A</color>
+    <color name="primary900">#001F1A</color>
+    <color name="lightBlue">#E0F1FF</color>
+    <color name="blue50">#ECF3FE</color>
+    <color name="primaryRed">#B31942</color>
+    <color name="primary400">#3B5A81</color>
+    <color name="gray700">#374151</color>
+    <color name="gray50">#F6F7F9</color>
+    <color name="gray100">#EBECF2</color>
+    <color name="gray300">#D1D5DB</color>
+    <color name="gray400">#9CA3AF</color>
+    <color name="gray500">#6B7280</color>
+    <color name="gray600">#4B5563</color>
+    <color name="gray800">#1F2937</color>
+    <color name="gray900">#667976</color>
+    <color name="transparent">#00000000</color>
+    <color name="whiteBg">#F9F9FB</color>
+    <color name="gray950">#242424</color>
+    <color name="gray550">#666666</color>
+    <color name="gray76">#E7EAEF</color>
+    <color name="green">#15B726</color>
+    <color name="yellow">#F2D229</color>
+    <color name="trans_red">#E73262</color>
+    <color name="orange">#B76C15</color>
+    <color name="blue">#154CB7</color>
+    <color name="coffee">#765656</color>
+    <color name="yellow_100">#B79715</color>
+    <color name="red_100">#DB1A4D</color>
+    <color name="blue_100">#155EB7</color>
+</resources>

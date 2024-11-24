@@ -1,0 +1,42 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=E"
+      },
+      {
+        "id": 2,
+        "name": "Home Appliances",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=H"
+      },
+      {
+        "id": 3,
+        "name": "Furniture",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=F"
+      },
+      {
+        "id": 4,
+        "name": "Cars",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=C"
+      },
+      {
+        "id": 5,
+        "name": "Gym Fitness",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=G"
+      },
+      {
+        "id": 6,
+        "name": "Sports",
+        "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=S"
+      }
+    ],
+    "max_product_old": 6,
+    "max_rental_period": 7
+  },
+  "meta": {
+    "message": "Categories fetched successfully",
+    "url": "http://2b78-122-182-200-195.ngrok-free.app/api/v1/get-categories"
+  }
+}

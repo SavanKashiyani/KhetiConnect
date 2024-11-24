@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=E"
+    },
+    {
+      "id": 2,
+      "name": "Home Appliances",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=H"
+    },
+    {
+      "id": 3,
+      "name": "Furniture",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=F"
+    },
+    {
+      "id": 4,
+      "name": "Cars",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=C"
+    },
+    {
+      "id": 5,
+      "name": "Gym Fitness",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=G"
+    },
+    {
+      "id": 6,
+      "name": "Sports",
+      "icon": "https://via.placeholder.com/75/EBF4FF/7F9CF5?text=S"
+    }
+  ],
+  "new_products": [
+    {
+      "id": 1,
+      "name": "Product One",
+      "category": "Electronics",
+      "price_per_day": "100.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nOne\n—",
+      "is_favorite": true,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    },
+    {
+      "id": 2,
+      "name": "Product Two",
+      "category": "Furniture",
+      "price_per_day": "50.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nTwo\n—",
+      "is_favorite": false,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    }
+  ],
+  "most_rented_products": [
+    {
+      "id": 1,
+      "name": "Product Three",
+      "category": "Electronics",
+      "price_per_day": "100.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nThree\n—",
+      "is_favorite": true,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    },
+    {
+      "id": 2,
+      "name": "Product Four",
+      "category": "Furniture",
+      "price_per_day": "50.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nFour\n—",
+      "is_favorite": false,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Product Five",
+      "category": "Furniture",
+      "price_per_day": "50.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nFive\n—",
+      "is_favorite": false,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    },
+    {
+      "id": 4,
+      "name": "Product Six",
+      "category": "Furniture",
+      "price_per_day": "0.00",
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nSix\n—",
+      "is_favorite": true,
+      "description": "A powerful tractor for farming.",
+      "years_old": 5,
+      "minimum_rental_period": 7,
+      "product_condition": "Good",
+      "user_guidelines": "Handle with care.",
+      "product_rating": 4.5,
+      "product_reviews": 20,
+      "seller_details": {
+        "id": 456,
+        "name": "John Doe",
+        "profile_image": "https://placehold.co/260x140/52565e/white/png?text=JD",
+        "seller_rating": 4.8,
+        "seller_reviews": 35,
+        "registered_on": "2023-11-22"
+      },
+      "images": [
+        {
+          "id": 789,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img1"
+        },
+        {
+          "id": 901,
+          "url": "https://placehold.co/260x140/52565e/white/png?text=Img2"
+        }
+      ],
+      "avg_rating": 4.2
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nBanner\nFirst\n—"
+    },
+    {
+      "id": 2,
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nBanner\nMiddle\n—"
+    },
+    {
+      "id": 3,
+      "image": "https://placehold.co/260x140/52565e/white/png?text=—\nBanner\nLast\n—"
+    }
+  ]
+}

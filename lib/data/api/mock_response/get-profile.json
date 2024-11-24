@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": 8,
+    "full_name": "Savan Kashiyani",
+    "email": "savan.kashiyani@gmail.com",
+    "phone_number": "7990577294",
+    "country_code": 1,
+    "profile_photo": "https://blog.yudiz.com/wp-content/uploads/2019/11/t-savan-kashiyani.jpg",
+    "dob": "1992/03/04",
+    "gender": 0,
+    "latitude": "23.049074507170964",
+    "longitude": "72.50807147473097",
+    "country": "India",
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "address": "Sargasan, Gandhinagar, Gujarat, India",
+    "pincode": 382421,
+    "wallet_balance": 904.75,
+    "unread_notifications": 8,
+    "timezone": "Asia/Calcutta"
+  },
+  "meta": {
+    "message": "Profile fetched successfully.",
+    "url": "https://.../api/v1/get-profile"
+  }
+}

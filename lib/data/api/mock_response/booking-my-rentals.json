@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "id": 17,
+      "product_id": 7,
+      "product_name": "Tractor One",
+      "product_image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nOne\n—",
+      "status": "occupied",
+      "seller_status": "inspection_approved",
+      "status_to_show": "In Use till 23 Nov 2024"
+    },
+    {
+      "id": 14,
+      "product_id": 7,
+      "product_name": "Tractor Two",
+      "product_image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nTwo\n—",
+      "status": "completed",
+      "seller_status": "inspection_approved",
+      "status_to_show": "Completed"
+    },
+    {
+      "id": 13,
+      "product_id": 7,
+      "product_name": "Tractor Three",
+      "product_image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nThree\n—",
+      "status": "completed",
+      "seller_status": "inspection_approved",
+      "status_to_show": "Completed"
+    },
+    {
+      "id": 12,
+      "product_id": 7,
+      "product_name": "Tractor Four",
+      "product_image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nFour\n—",
+      "status": "completed",
+      "seller_status": "inspection_approved",
+      "status_to_show": "Completed"
+    },
+    {
+      "id": 6,
+      "product_id": 7,
+      "product_name": "Tractor Five",
+      "product_image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nFive\n—",
+      "status": "completed",
+      "seller_status": "inspection_approved",
+      "status_to_show": "Completed"
+    }
+  ],
+  "meta": {
+    "message": "My rentals fetched successfully",
+    "url": "https://.../api/v1/booking/my-rentals"
+  }
+}

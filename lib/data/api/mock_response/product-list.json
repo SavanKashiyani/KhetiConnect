@@ -1,0 +1,131 @@
+{
+  "data": {
+    "products": [
+      {
+        "id": 1,
+        "name": "Product One",
+        "category": "Electronics",
+        "price_per_day": "15.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nOne\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 1,
+        "avg_rating": 0
+      },
+      {
+        "id": 3,
+        "name": "Product Two",
+        "category": "Cars",
+        "price_per_day": "500.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nTwo\n—",
+        "years_old": 24,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 1,
+        "avg_rating": 0
+      },
+      {
+        "id": 4,
+        "name": "Product Three",
+        "category": "Electronics",
+        "price_per_day": "30.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nThree\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 1,
+        "avg_rating": 0
+      },
+      {
+        "id": 5,
+        "name": "Product Four",
+        "category": "Electronics",
+        "price_per_day": "30.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nFour\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 1,
+        "avg_rating": 0
+      },
+      {
+        "id": 6,
+        "name": "Product Five",
+        "category": "Electronics",
+        "price_per_day": "30.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nFive\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 1,
+        "avg_rating": 0
+      },
+      {
+        "id": 7,
+        "name": "Product Six",
+        "category": "Cars",
+        "price_per_day": "40.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nSix\n—",
+        "years_old": 24,
+        "availability_status": null,
+        "is_favorite": true,
+        "total_received_requests": 7,
+        "avg_rating": 0
+      },
+      {
+        "id": 8,
+        "name": "Product Seven",
+        "category": "Electronics",
+        "price_per_day": "30.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nSeven\n—",
+        "years_old": 21,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 2,
+        "avg_rating": 0
+      },
+      {
+        "id": 10,
+        "name": "Product Eight",
+        "category": "Sports",
+        "price_per_day": "60.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nEight\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 0,
+        "avg_rating": 0
+      },
+      {
+        "id": 11,
+        "name": "Product Nine",
+        "category": "Filler",
+        "price_per_day": "6444.00",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nNine\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 0,
+        "avg_rating": 0
+      },
+      {
+        "id": 12,
+        "name": "Product Ten",
+        "category": "FUN",
+        "price_per_day": "60.85",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nProduct\nTen\n—",
+        "years_old": 0,
+        "availability_status": null,
+        "is_favorite": false,
+        "total_received_requests": 0,
+        "avg_rating": 0
+      }
+    ],
+    "total_pages": 2
+  },
+  "meta": {
+    "message": "Products fetched successfully",
+    "url": "https://.../api/v1/product/list"
+  }
+}

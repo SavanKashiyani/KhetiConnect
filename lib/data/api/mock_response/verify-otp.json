@@ -1,0 +1,11 @@
+{
+  "data": {
+    "status": true,
+    "screen_to_open": "dashboard",
+    "token": "676786c6c7dsdsc87ds98c7ds89v78d6v8"
+  },
+  "meta": {
+    "message": "OTP verified successfully",
+    "url": "https://.../api/v1/verify-otp"
+  }
+}

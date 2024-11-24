@@ -1,0 +1,11 @@
+{
+  "data": {
+    "mobile_number": "7990577294",
+    "email": "savan.kashiyani@gmail.com",
+    "address": "Sargasan, Gandhinagar, Gujarat, India"
+  },
+  "meta": {
+    "message": "Contact details fetched successfully.",
+    "url": "https://.../api/v1/contact-us"
+  }
+}

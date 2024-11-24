@@ -1,0 +1,41 @@
+{
+  "data": {
+    "products": [
+      {
+        "id": 15,
+        "name": "Tractor One",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nOne\n—",
+        "status": {
+          "key": "available",
+          "value": "Available For Rent",
+          "count": 0
+        }
+      },
+      {
+        "id": 14,
+        "name": "Tractor Two",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nTwo\n—",
+        "status": {
+          "key": "available",
+          "value": "Available For Rent",
+          "count": 1
+        }
+      },
+      {
+        "id": 12,
+        "name": "Tractor Three",
+        "image": "https://placehold.co/260x140/52565e/white/png?text=—\nTractor\nThree\n—",
+        "status": {
+          "key": "available",
+          "value": "Available For Rent",
+          "count": 0
+        }
+      }
+    ],
+    "total_count": 3
+  },
+  "meta": {
+    "message": "Favorite products fetched successfully.",
+    "url": "https://.../api/v1/get-favorites"
+  }
+}
